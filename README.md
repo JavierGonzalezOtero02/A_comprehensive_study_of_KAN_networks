@@ -1,4 +1,4 @@
-# Kolmogorov-Arnold Networks (KANs) Project
+# A comprehensive study of Kolmogorov-Arnold Networks
 
 Our project studies the potential of Kolmogorov-Arnold Networks (KANs), a cutting-edge deep learning architecture inspired by the Kolmogorov-Arnold representation theorem. This architecture was published ensuring that it could offer significant improvements over traditional neural networks in various tasks. The aim of our research was to thoroughly evaluate the capabilities and applications of KANs in both theoretical and practical scenarios.
 
